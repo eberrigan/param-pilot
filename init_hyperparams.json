@@ -1,0 +1,12 @@
+{
+    "HPARAM1": [
+        "value1",
+        "value2",
+        "value3"
+    ],
+    "HPARAM2": [
+        "value1",
+        "value2"
+    ]
+    // ... Add other hyperparameters as needed
+}
